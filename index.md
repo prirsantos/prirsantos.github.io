@@ -21,6 +21,7 @@ Os dados apresetados mostram que a capital paulistana é a cidade com maior núm
 **Fig. 01**: Evolução dos casos confirmados de COVID-19 em algumas cidades brasileiras. 
 
 Para tirar o feito do tamanho da população, é possível olharmos a quantidade proporcional de casos. A Figura 02, a seguir, apresenta a quantidade de cassos para cada 100 mil habitantes. Estes dados nos mostram que Fortaleza é a cidade acompanhada com uma situação mais preocupante. Nela, no dia 18 de abril, havia uma média de quase 80 casos para cada grupo de 100 mil habitantes, enquanto em São Paulo eram aproximadamente 65 casos confirmados para cada grupo de 100 mil pessoas. 
+Ao observar a proporção de casos a cada 100 mil habitantes, a cidade de Manaus salta aos olhos, com um rápido aumento de casos.
 
 ![](02-casos_cidades_100k_hab.png)
 **Fig. 02**: Evolução da proporção de casos confirmados de COVID-19 por 100 mil habitantes, em algumas cidades brasileiras.
