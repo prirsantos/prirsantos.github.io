@@ -13,12 +13,10 @@ O país está com um grave problema de subnotificação de casos e óbitos, dada
 A seguir são disponibilizados 2 gráficos sobre a evolução da quantidade de casos confirmados da COVID-19 no país. O primeiro gráfico (Fig. 01) mostra a evolução do número total de casos confirmados desde o décimo dia após o primeiro caso confirmado, em São Paulo no dia 26/02. 
 <!-- alguns sobre a evolução de casos confirmados e outros de mortes por COVID-19. A partir destes dados é possível perceber que até por volta do vigésimo dia após o início da epidemia, São Paulo era responsável por quase a totalidade de casos do país. Contudo, a partir do 24º dia de casos confirmados, o restante do Brasil passou a ter um aumento considerável de confirmações e os casos de São Paulo passaram a pesar menos no cenário nacional. Os dados indicam ainda, que tanto em São Paulo quanto nos outros Estados da Federação a quantidade de casos não parece estar chegando no ponto de máximo. --> 
 
-![](01-casos_cidades.png)
-
+<!--<img src="01-casos_cidades.png" width="500">  -->
+![](01-casos_cidades.png) 
 **Fig 01**: Evolução dos casos confirmados de COVID-19 em algumas cidades brasileiras. 
 
-
 ![](02-casos_cidades_100k_hab.png)
-
 **Fig 02**: Evolução da proporção de casos confirmados de COVID-19 por 100 mil habitantes, em algumas cidades brasileiras.
 
