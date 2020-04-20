@@ -1,12 +1,12 @@
-# Relatório da Evolução dos casos e mortes por COVID-19 no Brasil
+# COVID-19 no Brasil
 
-<p align="right"> <h3> Por Priscila Santos </h3> </p>
-<p align="right"> <h5> Última atualização em 19 de abril às 21h </h5> </p>
+### Por Priscila Santos
+<p align="right"> Última atualização em 19 de abril às 21h </p>
 
 A ideia deste relatório é acompanhar a evolução do número de casos e de mortes por COVID-19 no Brasil, por meio dos dados oficiais do Ministério da Saúde, das Secretarias de Saúde estaduais e municipais e de outras fontes oficiais. Os dados estão sendo obtidos por meio dos *sites* oficiais e de outros repositórios abertos listados a seguir. 
 
-* Brasil io -- https://brasil.io/home/
-* Portal de Transparecência do Registro Civil -- https://transparencia.registrocivil.org.br/especial-covid
+* [Brasil io](https://brasil.io/home/)
+<!-- * Portal de Transparecência do Registro Civil -- https://transparencia.registrocivil.org.br/especial-covid -->
 
 O país está com um grave problema de subnotificação de casos e óbitos, dada a dificuldade de importação, produção e processamento de testes. Assim, os gráficos a seguir mostram apenas parte do real cenário nacional cenário nacional, prejudicando as análises da situação nacional.
 
@@ -15,5 +15,10 @@ A seguir são disponibilizados 2 gráficos sobre a evolução da quantidade de c
 
 ![](01-casos_cidades.png)
 
+**Fig 01**: Evolução dos casos confirmados de COVID-19 em algumas cidades brasileiras. 
+
+
 ![](02-casos_cidades_100k_hab.png)
+
+**Fig 02**: Evolução da proporção de casos confirmados de COVID-19 por 100 mil habitantes, em algumas cidades brasileiras.
 
