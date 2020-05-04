@@ -1,0 +1,18 @@
+name: "Priscila Santos"
+navbar:
+  title: "Priscila Santos"
+  left:
+    - text: "COVID-19"
+      href: covid-io.html
+  right:
+    - text: "About me"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: contact.html
+#    - icon: fa-github fa-lg
+#      href: http://github.com/zabore
+#output:
+#  html_document:
+#    theme: panthera-jekyll
+      
+    
