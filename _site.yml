@@ -3,7 +3,7 @@ navbar:
   title: "Priscila Santos"
   left:
     - text: "COVID-19"
-      href: covid-io.html
+      href: index.html
   right:
     - text: "About me"
       href: about.html
