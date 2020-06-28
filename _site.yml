@@ -1,18 +1,34 @@
-name: "Priscila Santos"
-navbar:
-  title: "Priscila Santos"
-  left:
-    - text: "COVID-19"
-      href: index.html
-  right:
-    - text: "About me"
-      href: about.html
-    - icon: fa-envelope fa-lg
-      href: contact.html
-#    - icon: fa-github fa-lg
-#      href: http://github.com/zabore
-#output:
-#  html_document:
-#    theme: panthera-jekyll
+### Exemplo do site do rmarkdown
       
+name: "Meu site"
+#Informações da barra superior
+navbar:
+  title: "Pri"
+  left:
+    - text: "Home"
+      href: index.html
+#    - text: "About"
+#      href: about.html
+      
+  right:
+    - text: "Sobre mim"
+      href: about.html
+# Inclui ícone para contato
+#    - icon: fa-envelope fa-lg
+#      href: contact.html
+# Inclui ícone para o meu github
+#    - icon: fa-github fa-lg
+#      href: http://github.com/prirsantos
+
     
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+
+# É possível incluir um footer. Para isso criar um arquivo footer.html com  por exmeplo:
+# <p>Copyright &copy; 2016 Skynet, Inc. All rights reserved.</p>
+#  include:
+#      after_body: footer.html
+
+      
