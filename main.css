@@ -1,0 +1,30 @@
+body {
+	height: 100%;
+	margin: 30px;
+	text-align: center;
+	width: 97%;
+	background-image: url(imagens/Bilas-pb.jpg);
+	background-size: cover;
+#!	color: DodgerBlue;
+}
+
+.nav {
+#!	background-color: coral;
+}
+
+
+.hero {
+#! background-image: url(imagens/Bilas-01.jpg);
+}
+
+h1 {
+#!	padding: 250px 0;
+	font-size: 4rem;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: DodgerBlue;
+}
+
+p {
+	font-size: 1.3rem;
+	font-family: Verdana, sans-serif;
+}
