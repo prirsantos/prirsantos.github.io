@@ -9,19 +9,31 @@ body {
 }
 
 .nav {
-#!	background-color: coral;
+	border-bottom: 0.15rem solid black;
+#!	background-color: black;
+#!	color: White;
 }
 
+.nav li{
+	display: inline;
+	padding-left: 100px;
+	padding-right: 100px;
+}
 
 .hero {
 #! background-image: url(imagens/Bilas-01.jpg);
 }
 
 h1 {
-#!	padding: 250px 0;
+	padding-top: 10px;
+	margin-left: 40rem;
+	margin-right: 40rem;
+	background-color: black;
+	border: 4px solid DodgerBlue;
 	font-size: 4rem;
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	color: DodgerBlue;
+
 }
 
 p {
