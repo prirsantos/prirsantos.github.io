@@ -3,21 +3,47 @@ body {
 	margin: 30px;
 	text-align: center;
 	width: 97%;
-	background-image: url(imagens/Bilas-pb.jpg);
-	background-size: cover;
+	background-image: url(imagens/contorno_brasil.png);
+	background-repeat: no-repeat;
+	background-size: 35%;
+	background-position-x: center;
+	background-position-y: 17rem;
 #!	color: DodgerBlue;
 }
 
-.nav {
-	border-bottom: 0.15rem solid black;
-#!	background-color: black;
-#!	color: White;
+
+.sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 16px;
 }
 
-.nav li{
-	display: inline;
-	padding-left: 100px;
-	padding-right: 100px;
+.sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+}
+
+.sidebar a:hover {
+  color: DodgerBlue;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
 }
 
 .hero {
@@ -39,4 +65,5 @@ h1 {
 p {
 	font-size: 1.3rem;
 	font-family: Verdana, sans-serif;
+	margin-left: 10rem;
 }
