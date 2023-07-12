@@ -1,7 +1,5 @@
-/* Paleta de cores: https://palettes.shecodes.io/palettes/320*/
-
 body {
-    color: #303841;
+    color: #777;
 }
 
 .pure-img-responsive {
@@ -51,31 +49,21 @@ The content `<div>` is where all your content goes.
 
 .header {
      margin: 0;
-     color:#303841;
+     color: #333;
      text-align: center;
      padding: 2.5em 2em 0;
-     border-bottom: 1px solid #d3d6db;
+     border-bottom: 1px solid #eee;
  }
     .header h1 {
-        padding-top: 10px;
-        margin-left: 35rem;
-        margin-right: 35rem;
-        background-color: #d3d6db;
-        border: 6px solid #be3144;
-        font-size: 4rem;
-        font-family: 'Trebuchet MS', Helvetica, sans-serif;
-        color: #be3144;
-        
-    }
-     .header p {
+        margin: 0.2em 0;
+        font-size: 3em;
         font-weight: 300;
-        color: #3a4750;
+    }
+     .header h2 {
+        font-weight: 300;
+        color: #ccc;
         padding: 0;
         margin-top: 0;
-        font-size: 1.1rem;
-	    font-family: Verdana, sans-serif;
-	    margin-left: 10rem;
-        margin-right: 10rem;
     }
 
 .content-subhead {
@@ -99,14 +87,14 @@ appears on the left side of the page.
     left: 0;
     bottom: 0;
     z-index: 1000; /* so the menu or its navicon stays above all content */
-    background:  #303841;
+    background: #191818;
     overflow-y: auto;
 }
     /*
     All anchors inside the menu should be styled like this.
     */
     #menu a {
-        color: #d3d6db;
+        color: #999;
         border: none;
         padding: 0.6em 0 0.6em 0.6em;
     }
@@ -125,14 +113,14 @@ appears on the left side of the page.
     */
     #menu .pure-menu ul,
     #menu .pure-menu .menu-item-divided {
-        border-top: 1px solid #d3d6db;
+        border-top: 1px solid #333;
     }
         /*
         Change color of the anchor links on hover/focus.
         */
         #menu .pure-menu li a:hover,
         #menu .pure-menu li a:focus {
-            background: #be3144;
+            background: #333;
         }
 
     /*
@@ -140,7 +128,7 @@ appears on the left side of the page.
     */
     #menu .pure-menu-selected,
     #menu .pure-menu-heading {
-        background:#be3144;
+        background: #1f8dd6;
     }
         /*
         This styles a link within a selected menu item `<li>`.
